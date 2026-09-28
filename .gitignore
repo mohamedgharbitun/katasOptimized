@@ -1,0 +1,6 @@
+/target/
+.idea/
+bank.iml
+.settings/
+.classpath
+.project

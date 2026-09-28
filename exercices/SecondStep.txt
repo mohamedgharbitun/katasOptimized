@@ -1,0 +1,12 @@
+Now that we can have clients, we must propose the products
+
+- Let's start by the product clients like the most : le LivretA. LivretA has an annual rate of 0.75%.
+To calculate the cost of this product each month for the bank, the formula is : amount * (rate/100) / 12.
+
+- Let's add LDD. LDD has an annual rate of 1%.
+To calculate the cost of this product each month for the bank, the formula is : amount * (rate/100) / 12.
+
+- Let's add CompteAvue. CompteAVue has an annual rate of 0.5%.
+To calculate the cost of this product each month for the bank, the formula is : amount * (rate/100) / 12.
+
+- We must be sure that each client has only one instance of each product.

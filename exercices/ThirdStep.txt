@@ -1,0 +1,6 @@
+Ok all these products cost us money, we need to earn some money back.
+
+- Let's lend some money with the product Pret. We can lend this money at 2%.
+o calculate the revenue of this product each month for the bank, the formula is : amount * (rate/100) / 12.
+
+- Now we need to know what we gain or loose each month, this value is called PNL or Balance.

@@ -1,0 +1,9 @@
+Welcome to KataBank !!!
+
+KataBank is a new online bank that wants to propose simple product to its clients.
+So, first let's manage our clients.
+
+- We need to identify our client, let's use their email
+- we need to store our clients
+- We need to identify our clients uniquely, let's use their email address
+- We need to find quickly a specific client
